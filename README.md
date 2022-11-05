@@ -1,1 +1,1 @@
-1. Complete Ruby on Rails Developer
+1. Test repo on the complete Ruby on Rails Developer course
